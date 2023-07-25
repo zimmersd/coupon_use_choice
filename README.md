@@ -1,4 +1,5 @@
 # coupon_use_choice
+
 A project that seeks to answer the question, "Will a customer accept the coffee coupon?"
 
 This is primarily a learning project for introductory data analysis.
@@ -24,3 +25,5 @@ Some of the standout properties include:
 - **mid to high coffee place frequency**
 - **single**
 - __income lower than $50k__
+
+Link to Jupyter notebook: <https://github.com/zimmersd/coupon_use_choice/blob/main/coffee_coupon_acceptance.ipynb>
